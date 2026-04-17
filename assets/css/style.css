@@ -1,0 +1,39 @@
+/* Background */
+body {
+    background: linear-gradient(to right, #4bed63, #05682d);
+    font-family: Arial, sans-serif;
+}
+
+/* Tengahin login box */
+.login-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Card login */
+.card {
+    border-radius: 15px;
+}
+
+/* Judul */
+h4 {
+    font-weight: bold;
+}
+
+/* Input */
+.form-control {
+    border-radius: 10px;
+}
+
+/* Tombol */
+.btn-primary {
+    border-radius: 10px;
+    background-color: #4facfe;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #00c6ff;
+}
